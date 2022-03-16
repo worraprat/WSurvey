@@ -1,0 +1,175 @@
+ 
+Interface name : Wi-Fi 
+There are 15 networks currently visible. 
+
+SSID 1 : northern_inet_ac
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : a0:72:2c:99:74:04
+         Signal             : 87%  
+         Radio type         : 802.11ac
+         Channel            : 52 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 2 : Mackjung1982-5G
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 1c:43:63:97:db:e4
+         Signal             : 32%  
+         Radio type         : 802.11ac
+         Channel            : 149 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 3 : TrueGigatexFiber_MPX5.0
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 44:13:d0:ab:fa:ec
+         Signal             : 4%  
+         Radio type         : 802.11ac
+         Channel            : 149 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 4 : Sniper wifi
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 44:13:d0:be:8a:6f
+         Signal             : 0%  
+         Radio type         : 802.11ac
+         Channel            : 157 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 2                 : 44:13:d0:be:8a:6d
+         Signal             : 10%  
+         Radio type         : 802.11n
+         Channel            : 8 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 5 : JJ
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 46:13:d0:9e:8a:6f
+         Signal             : 0%  
+         Radio type         : 802.11ac
+         Channel            : 157 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 6 : Mackjung1982
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 1c:43:63:97:db:e0
+         Signal             : 70%  
+         Radio type         : 802.11ac
+         Channel            : 2 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 7 : TrueGigatexFiber_MPX2.4
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 44:13:d0:ab:fa:ea
+         Signal             : 64%  
+         Radio type         : 802.11n
+         Channel            : 3 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 8 : NetGU
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 60:e3:27:7c:d0:7c
+         Signal             : 40%  
+         Radio type         : 802.11n
+         Channel            : 4 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 9 : GuestGU
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 60:e3:27:62:d0:7d
+         Signal             : 40%  
+         Radio type         : 802.11n
+         Channel            : 4 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 10 : TrueGigatexFiber_db0
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 70:f8:2b:fc:dd:b4
+         Signal             : 50%  
+         Radio type         : 802.11n
+         Channel            : 5 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 11 : host 902
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 16:13:46:9b:17:b1
+         Signal             : 18%  
+         Radio type         : 802.11n
+         Channel            : 6 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 12 : MSP+2G
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 94:09:37:9a:2e:58
+         Signal             : 26%  
+         Radio type         : 802.11n
+         Channel            : 7 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 13 : Northern_inet
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : a0:72:2c:99:74:00
+         Signal             : 92%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 14 : true_home2G_4F8
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 16:13:46:98:04:f9
+         Signal             : 24%  
+         Radio type         : 802.11n
+         Channel            : 10 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 15 : wissan Wi-Fi Network
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 90:72:40:17:f6:b6
+         Signal             : 38%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
